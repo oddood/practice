@@ -26,5 +26,5 @@ class TwoSum:
               .format(successes, tests, successes/tests))
 
 
-two = TwoSum()
-two.test()
+this = TwoSum()
+this.test()
